@@ -1,0 +1,12 @@
+{
+  "name": "syno-hang-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gcaaa31928/syno-hang-code.git",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.1"
+  }
+}
